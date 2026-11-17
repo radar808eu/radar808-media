@@ -30,7 +30,7 @@ VOLT, PINK, BLUE, ORANGE, INK, WHITE, GREY = "#E8FF2B", "#FF3D8B", "#3D5AFE", "#
 
 FORMATS = {
     "IG": dict(w=1080, h=1350, pt=60, pb=60, pl=60, pr=60),
-    "TT": dict(w=1080, h=1920, pt=150, pb=380, pl=60, pr=130),  # TikTok UI safe zones
+    "TT": dict(w=1080, h=1920, pt=300, pb=380, pl=60, pr=130),  # TikTok: feed crops ~190px top + search/tabs overlay -> header below 300
 }
 
 def fg_for(bg):
