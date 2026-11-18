@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "status": "pending",
+ "status": "auto_scheduled",
  "items": [
   {
    "id": "lineup-story",
@@ -9,7 +9,7 @@
    "network": "instagram",
    "time": "10:30",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -28,7 +28,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afd5bd2ec7ce52643781bbf"
   },
   {
    "id": "uk-rap-chart-skepta-ig",
@@ -37,7 +38,7 @@
    "network": "instagram",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "MARKET CHECK 🇬🇧 — Skepta\n\nWeek two of the brand-new Official UK Rap Chart and the podium belongs to Skepta: Currency is new at No.1, Broken Hearts with Central Cee and Jorja Smith new at No.2, Secrets of Patriarchy new at No.3. Add Chiltern Firehouse with Fakemink at No.6 and he's on four of the top six, as The Fork and Knife, his first solo album since 2019's Ignorance Is Bliss, lands. Last week's No.1, What U Wanna Do by D-Block Europe & Young Adz, drops to No.7.\n\n🎧 Track: Currency – Skepta\n\nWho holds No.1 next Friday? Comment 1 for Currency, 2 for Broken Hearts.\n\nData: Official UK Rap Chart, chart dated 13 Nov 2026\n\n#RADAR808 #MarketCheck #UKRap #UKRapChart #Grime #Skepta #OfficialCharts",
@@ -89,7 +90,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6afd5be9e7dde8d4fcd6fdf4"
   },
   {
    "id": "uk-rap-chart-skepta-tt",
@@ -98,7 +100,7 @@
    "network": "tiktok",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "MARKET CHECK 🇬🇧 — Skepta\n\nWeek two of the brand-new Official UK Rap Chart and the podium belongs to Skepta: Currency is new at No.1, Broken Hearts with Central Cee and Jorja Smith new at No.2, Secrets of Patriarchy new at No.3. Add Chiltern Firehouse with Fakemink at No.6 and he's on four of the top six, as The Fork and Knife, his first solo album since 2019's Ignorance Is Bliss, lands. Last week's No.1, What U Wanna Do by D-Block Europe & Young Adz, drops to No.7.\n\n🎧 Track: Currency – Skepta\n\nWho holds No.1 next Friday? Comment 1 for Currency, 2 for Broken Hearts.\n\nData: Official UK Rap Chart, chart dated 13 Nov 2026\n\n#RADAR808 #MarketCheck #UKRap #UKRapChart #Grime #Skepta #OfficialCharts",
@@ -149,7 +151,8 @@
       "title": "Skepta takes the top 3 of the new UK Rap Chart"
      }
     }
-   }
+   },
+   "buffer_id": "6afd5beae7dde8d4fcd6fe31"
   },
   {
    "id": "uk-rap-chart-skepta-story-newpost",
@@ -158,7 +161,7 @@
    "network": "instagram",
    "time": "18:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -177,7 +180,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afd5bea0f01b387a168d694"
   },
   {
    "id": "uk-rap-chart-skepta-story-vote",
@@ -186,7 +190,7 @@
    "network": "instagram",
    "time": "20:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -205,7 +209,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afd5bebe7dde8d4fcd6fe79"
   },
   {
    "id": "it-fimi-wk46-ig",
@@ -214,7 +219,7 @@
    "network": "instagram",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "MARKET CHECK 🇮🇹 — Tony Boy vs Kid Yugi\n\nFIMI week 46: Cura, Tony Boy's fifth studio album, debuts at No.1 and pushes Kid Yugi's album down to No.2. Kid Yugi answers on the singles chart: Sentire La Musica is No.1, and he collects three new golds in the same week. Geolier is on five of the top 20 singles, and Clementino & Rocco Hunt debut at No.3 albums with their first joint record, The Album.\n\n🎧 Track: Sentire La Musica – Kid Yugi\n\nAlbum No.1 next week? Comment 1 for Tony Boy, 2 for Kid Yugi.\n\nData: FIMI Top of the Music and FIMI certifications, week 46/2026\n\n#RADAR808 #MarketCheck #RapItaliano #FIMI #TonyBoy #KidYugi #Geolier",
@@ -266,7 +271,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6afd5c01ec7ce52643782935"
   },
   {
    "id": "it-fimi-wk46-tt",
@@ -275,7 +281,7 @@
    "network": "tiktok",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "MARKET CHECK 🇮🇹 — Tony Boy vs Kid Yugi\n\nFIMI week 46: Cura, Tony Boy's fifth studio album, debuts at No.1 and pushes Kid Yugi's album down to No.2. Kid Yugi answers on the singles chart: Sentire La Musica is No.1, and he collects three new golds in the same week. Geolier is on five of the top 20 singles, and Clementino & Rocco Hunt debut at No.3 albums with their first joint record, The Album.\n\n🎧 Track: Sentire La Musica – Kid Yugi\n\nAlbum No.1 next week? Comment 1 for Tony Boy, 2 for Kid Yugi.\n\nData: FIMI Top of the Music and FIMI certifications, week 46/2026\n\n#RADAR808 #MarketCheck #RapItaliano #FIMI #TonyBoy #KidYugi #Geolier",
@@ -326,7 +332,8 @@
       "title": "Tony Boy vs Kid Yugi: who owns FIMI week 46?"
      }
     }
-   }
+   },
+   "buffer_id": "6afd5c02e7dde8d4fcd703dd"
   },
   {
    "id": "it-fimi-wk46-story-newpost",
@@ -335,7 +342,7 @@
    "network": "instagram",
    "time": "21:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -354,7 +361,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afd5c03152518c7f46bb59f"
   },
   {
    "id": "it-fimi-wk46-story-vote",
@@ -363,7 +371,7 @@
    "network": "instagram",
    "time": "23:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -382,7 +390,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afd5c03739d5342ff141b6f"
   }
  ]
 }
