@@ -1,0 +1,332 @@
+{
+ "date": "2026-11-19",
+ "status": "pending",
+ "items": [
+  {
+   "id": "lineup-story",
+   "post": "lineup",
+   "kind": "story",
+   "network": "instagram",
+   "time": "10:30",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/lineup/story_lineup.jpg",
+       "metadata": {
+        "altText": "Today on 808: Thursday lineup"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-radar-le-crime-tk-ig",
+   "post": "fr-radar-le-crime-tk",
+   "kind": "post",
+   "network": "instagram",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "THE RADAR 🇫🇷 — Le Crime & TK\n\nBordeaux's Le Crime and masked Marseille rapper TK put Bodycount out back in June. Five months later it's the slow burner of the season: No.48 to No.11 in October, then No.7 to a new peak of No.5 on the French singles chart (6–12 Nov). Radio caught on too, with Skyrock and Générations now playing it.\n\n🎧 Track: Bodycount – Le Crime & TK\n\nWho's next? Drop a name in the comments.\n\nData: French Singles Chart via Official Charts, week 6–12 Nov 2026\n\n#RADAR808 #TheRadar #RapFrancais #FrenchRap #LeCrime #TK #Bodycount",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/IG_01.jpg",
+       "metadata": {
+        "altText": "THE RADAR cover: Le Crime & TK, Bordeaux x Marseille"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/IG_02.jpg",
+       "metadata": {
+        "altText": "WHO: Le Crime from Bordeaux, TK from Marseille"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/IG_03.jpg",
+       "metadata": {
+        "altText": "THE RUN: Bodycount from June release to No.5"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/IG_04.jpg",
+       "metadata": {
+        "altText": "THE TRACK: Bodycount at No.5 on the French singles chart"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/IG_05.jpg",
+       "metadata": {
+        "altText": "Why they're on the radar, plus who's next"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-radar-le-crime-tk-tt",
+   "post": "fr-radar-le-crime-tk",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "THE RADAR 🇫🇷 — Le Crime & TK\n\nBordeaux's Le Crime and masked Marseille rapper TK put Bodycount out back in June. Five months later it's the slow burner of the season: No.48 to No.11 in October, then No.7 to a new peak of No.5 on the French singles chart (6–12 Nov). Radio caught on too, with Skyrock and Générations now playing it.\n\n🎧 Track: Bodycount – Le Crime & TK\n\nWho's next? Drop a name in the comments.\n\nData: French Singles Chart via Official Charts, week 6–12 Nov 2026\n\n#RADAR808 #TheRadar #RapFrancais #FrenchRap #LeCrime #TK #Bodycount",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/TT_01.jpg",
+       "metadata": {
+        "altText": "THE RADAR cover: Le Crime & TK, Bordeaux x Marseille"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/TT_02.jpg",
+       "metadata": {
+        "altText": "WHO: Le Crime from Bordeaux, TK from Marseille"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/TT_03.jpg",
+       "metadata": {
+        "altText": "THE RUN: Bodycount from June release to No.5"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/TT_04.jpg",
+       "metadata": {
+        "altText": "THE TRACK: Bodycount at No.5 on the French singles chart"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/TT_05.jpg",
+       "metadata": {
+        "altText": "Why they're on the radar, plus who's next"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Le Crime & TK: the June sleeper now top 5 in France"
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-radar-le-crime-tk-story-newpost",
+   "post": "fr-radar-le-crime-tk",
+   "kind": "story",
+   "network": "instagram",
+   "time": "18:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/fr-radar-le-crime-tk/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "de-radar-tom-hengst-ig",
+   "post": "de-radar-tom-hengst",
+   "kind": "post",
+   "network": "instagram",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "THE RADAR 🇩🇪 — Tom Hengst\n\nHamburg rapper Tom Hengst enters the Offizielle Deutsche Album-Charts at No.7 with Zwei Zimmer, the week's highest Deutschrap album, ahead of Dardan's Dilemma at No.13. 16 tracks, with Olexesh, Kwam.E, Disarstar and Filow on board, plus Chilly Gonzales on two cuts. The Zwei Zimmer Tour hits Berlin and Köln in May 2027.\n\n🎧 Track: Bruce Wayne – Tom Hengst\n\nWho's next? Drop a name in the comments.\n\nData: Offizielle Deutsche Album-Charts, week 13.11.–19.11.2026\n\n#RADAR808 #TheRadar #Deutschrap #GermanRap #TomHengst #ZweiZimmer",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/IG_01.jpg",
+       "metadata": {
+        "altText": "THE RADAR cover: Tom Hengst new at No.7 in German albums"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/IG_02.jpg",
+       "metadata": {
+        "altText": "WHO: Tom Hengst from Hamburg"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/IG_03.jpg",
+       "metadata": {
+        "altText": "THE RUN: from Brustbeutel EP 2019 to Zwei Zimmer 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/IG_04.jpg",
+       "metadata": {
+        "altText": "THE TRACK: Zwei Zimmer at No.7 in the German album chart"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/IG_05.jpg",
+       "metadata": {
+        "altText": "Why he's on the radar, plus who's next"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "de-radar-tom-hengst-tt",
+   "post": "de-radar-tom-hengst",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "THE RADAR 🇩🇪 — Tom Hengst\n\nHamburg rapper Tom Hengst enters the Offizielle Deutsche Album-Charts at No.7 with Zwei Zimmer, the week's highest Deutschrap album, ahead of Dardan's Dilemma at No.13. 16 tracks, with Olexesh, Kwam.E, Disarstar and Filow on board, plus Chilly Gonzales on two cuts. The Zwei Zimmer Tour hits Berlin and Köln in May 2027.\n\n🎧 Track: Bruce Wayne – Tom Hengst\n\nWho's next? Drop a name in the comments.\n\nData: Offizielle Deutsche Album-Charts, week 13.11.–19.11.2026\n\n#RADAR808 #TheRadar #Deutschrap #GermanRap #TomHengst #ZweiZimmer",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/TT_01.jpg",
+       "metadata": {
+        "altText": "THE RADAR cover: Tom Hengst new at No.7 in German albums"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/TT_02.jpg",
+       "metadata": {
+        "altText": "WHO: Tom Hengst from Hamburg"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/TT_03.jpg",
+       "metadata": {
+        "altText": "THE RUN: from Brustbeutel EP 2019 to Zwei Zimmer 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/TT_04.jpg",
+       "metadata": {
+        "altText": "THE TRACK: Zwei Zimmer at No.7 in the German album chart"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/TT_05.jpg",
+       "metadata": {
+        "altText": "Why he's on the radar, plus who's next"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Tom Hengst cracks the German album top 10 with Zwei Zimmer"
+     }
+    }
+   }
+  },
+  {
+   "id": "de-radar-tom-hengst-story-newpost",
+   "post": "de-radar-tom-hengst",
+   "kind": "story",
+   "network": "instagram",
+   "time": "21:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-19/de-radar-tom-hengst/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  }
+ ]
+}
