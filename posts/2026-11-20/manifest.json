@@ -1,0 +1,348 @@
+{
+ "date": "2026-11-20",
+ "status": "pending",
+ "items": [
+  {
+   "id": "lineup-story",
+   "post": "lineup",
+   "kind": "story",
+   "network": "instagram",
+   "time": "10:30",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/lineup/story_lineup.jpg",
+       "metadata": {
+        "altText": "Today on 808: Friday lineup, two Release Friday posts"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "it-friday-sfera-purosangue-ig",
+   "post": "it-friday-sfera-purosangue",
+   "kind": "post",
+   "network": "instagram",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "RELEASE FRIDAY 🇮🇹 — Sfera Ebbasta\n\nPurosangue was supposed to land on 11 December. Instead Sfera Ebbasta moved it up three weeks and it's out today via Universal Music Italia, with the new date painted on the walls of via Friuli in his hometown Cinisello Balsamo. It's his first album since X2VR, opened by \"Lontano\", whose video he shot in front of Leonardo's Last Supper. The 2027 arena tour already has sold-out nights in Rome and Milan.\n\n🎧 Track: Lontano – Sfera Ebbasta\n\nBest track on first listen? Tell us in the comments.\n\n#RADAR808 #ReleaseFriday #SferaEbbasta #Purosangue #RapItaliano #ItalianRap #Trap",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/IG_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: Purosangue by Sfera Ebbasta on a cassette label"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/IG_02.jpg",
+       "metadata": {
+        "altText": "Fact sheet: album, label, first single Lontano, old and new release dates"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/IG_03.jpg",
+       "metadata": {
+        "altText": "The rollout: San Siro preview, Last Supper video, murals in Cinisello, release moved up"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/IG_04.jpg",
+       "metadata": {
+        "altText": "The track: Lontano by Sfera Ebbasta, first single from Purosangue"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/IG_05.jpg",
+       "metadata": {
+        "altText": "Why it matters: first album since X2VR, 2027 arena tour with sold-out nights"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/IG_06.jpg",
+       "metadata": {
+        "altText": "Rundown and question: best track on first listen?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "it-friday-sfera-purosangue-tt",
+   "post": "it-friday-sfera-purosangue",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "RELEASE FRIDAY 🇮🇹 — Sfera Ebbasta\n\nPurosangue was supposed to land on 11 December. Instead Sfera Ebbasta moved it up three weeks and it's out today via Universal Music Italia, with the new date painted on the walls of via Friuli in his hometown Cinisello Balsamo. It's his first album since X2VR, opened by \"Lontano\", whose video he shot in front of Leonardo's Last Supper. The 2027 arena tour already has sold-out nights in Rome and Milan.\n\n🎧 Track: Lontano – Sfera Ebbasta\n\nBest track on first listen? Tell us in the comments.\n\n#RADAR808 #ReleaseFriday #SferaEbbasta #Purosangue #RapItaliano #ItalianRap #Trap",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/TT_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: Purosangue by Sfera Ebbasta on a cassette label"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/TT_02.jpg",
+       "metadata": {
+        "altText": "Fact sheet: album, label, first single Lontano, old and new release dates"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/TT_03.jpg",
+       "metadata": {
+        "altText": "The rollout: San Siro preview, Last Supper video, murals in Cinisello, release moved up"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/TT_04.jpg",
+       "metadata": {
+        "altText": "The track: Lontano by Sfera Ebbasta, first single from Purosangue"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/TT_05.jpg",
+       "metadata": {
+        "altText": "Why it matters: first album since X2VR, 2027 arena tour with sold-out nights"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/TT_06.jpg",
+       "metadata": {
+        "altText": "Rundown and question: best track on first listen?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Sfera Ebbasta's Purosangue is out — three weeks early"
+     }
+    }
+   }
+  },
+  {
+   "id": "it-friday-sfera-purosangue-story-newpost",
+   "post": "it-friday-sfera-purosangue",
+   "kind": "story",
+   "network": "instagram",
+   "time": "18:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/it-friday-sfera-purosangue/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808: Release Friday cover: Purosangue by Sfera Ebbasta on a cassette label"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "uk-friday-deed0t-time-to-move-forward-ig",
+   "post": "uk-friday-deed0t-time-to-move-forward",
+   "kind": "post",
+   "network": "instagram",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "RELEASE FRIDAY 🇬🇧 — deed0t\n\nManchester rapper deed0t drops Time To Move Forward today, his lengthiest body of work to date. The run-up came through singles \"Same Face\", \"Been Around\" and \"Change\", after a summer of UK rap anthems straight to streaming. Soundsystem roots too: his dad DJs in Manchester's soundsystem scene.\n\n🎧 Track: Locked In – deed0t\n\nIs deed0t next up? Who's your Manchester pick? Comment below.\n\n#RADAR808 #ReleaseFriday #deed0t #UKRap #ManchesterRap #TimeToMoveForward",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/IG_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: Time To Move Forward by deed0t on a cassette label"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/IG_02.jpg",
+       "metadata": {
+        "altText": "Fact sheet: deed0t, Manchester rapper, album out 20 November 2026, recent singles"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/IG_03.jpg",
+       "metadata": {
+        "altText": "The track: Locked In by deed0t"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/IG_04.jpg",
+       "metadata": {
+        "altText": "Why it matters: soundsystem roots, his biggest project yet"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/IG_05.jpg",
+       "metadata": {
+        "altText": "Rundown and question: is deed0t next up?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "uk-friday-deed0t-time-to-move-forward-tt",
+   "post": "uk-friday-deed0t-time-to-move-forward",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "RELEASE FRIDAY 🇬🇧 — deed0t\n\nManchester rapper deed0t drops Time To Move Forward today, his lengthiest body of work to date. The run-up came through singles \"Same Face\", \"Been Around\" and \"Change\", after a summer of UK rap anthems straight to streaming. Soundsystem roots too: his dad DJs in Manchester's soundsystem scene.\n\n🎧 Track: Locked In – deed0t\n\nIs deed0t next up? Who's your Manchester pick? Comment below.\n\n#RADAR808 #ReleaseFriday #deed0t #UKRap #ManchesterRap #TimeToMoveForward",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/TT_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: Time To Move Forward by deed0t on a cassette label"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/TT_02.jpg",
+       "metadata": {
+        "altText": "Fact sheet: deed0t, Manchester rapper, album out 20 November 2026, recent singles"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/TT_03.jpg",
+       "metadata": {
+        "altText": "The track: Locked In by deed0t"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/TT_04.jpg",
+       "metadata": {
+        "altText": "Why it matters: soundsystem roots, his biggest project yet"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/TT_05.jpg",
+       "metadata": {
+        "altText": "Rundown and question: is deed0t next up?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "deed0t drops Time To Move Forward — Manchester goes long"
+     }
+    }
+   }
+  },
+  {
+   "id": "uk-friday-deed0t-time-to-move-forward-story-newpost",
+   "post": "uk-friday-deed0t-time-to-move-forward",
+   "kind": "story",
+   "network": "instagram",
+   "time": "21:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-20/uk-friday-deed0t-time-to-move-forward/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808: Release Friday cover: Time To Move Forward by deed0t on a cassette label"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  }
+ ]
+}
