@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "status": "pending",
+ "status": "auto_scheduled",
  "items": [
   {
    "id": "lineup-story",
@@ -9,7 +9,7 @@
    "network": "instagram",
    "time": "10:30",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -28,7 +28,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afead8b9af0a73f7126adb2"
   },
   {
    "id": "fr-radar-le-crime-tk-ig",
@@ -37,7 +38,7 @@
    "network": "instagram",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "THE RADAR 🇫🇷 — Le Crime & TK\n\nBordeaux's Le Crime and masked Marseille rapper TK put Bodycount out back in June. Five months later it's the slow burner of the season: No.48 to No.11 in October, then No.7 to a new peak of No.5 on the French singles chart (6–12 Nov). Radio caught on too, with Skyrock and Générations now playing it.\n\n🎧 Track: Bodycount – Le Crime & TK\n\nWho's next? Drop a name in the comments.\n\nData: French Singles Chart via Official Charts, week 6–12 Nov 2026\n\n#RADAR808 #TheRadar #RapFrancais #FrenchRap #LeCrime #TK #Bodycount",
@@ -89,7 +90,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6afead8cc7454d8a54092987"
   },
   {
    "id": "fr-radar-le-crime-tk-tt",
@@ -98,7 +100,7 @@
    "network": "tiktok",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "THE RADAR 🇫🇷 — Le Crime & TK\n\nBordeaux's Le Crime and masked Marseille rapper TK put Bodycount out back in June. Five months later it's the slow burner of the season: No.48 to No.11 in October, then No.7 to a new peak of No.5 on the French singles chart (6–12 Nov). Radio caught on too, with Skyrock and Générations now playing it.\n\n🎧 Track: Bodycount – Le Crime & TK\n\nWho's next? Drop a name in the comments.\n\nData: French Singles Chart via Official Charts, week 6–12 Nov 2026\n\n#RADAR808 #TheRadar #RapFrancais #FrenchRap #LeCrime #TK #Bodycount",
@@ -149,7 +151,8 @@
       "title": "Le Crime & TK: the June sleeper now top 5 in France"
      }
     }
-   }
+   },
+   "buffer_id": "6afead8d7dcd23a28ea99175"
   },
   {
    "id": "fr-radar-le-crime-tk-story-newpost",
@@ -158,7 +161,7 @@
    "network": "instagram",
    "time": "18:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -177,7 +180,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afead8d7dcd23a28ea991cf"
   },
   {
    "id": "de-radar-tom-hengst-ig",
@@ -186,7 +190,7 @@
    "network": "instagram",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "THE RADAR 🇩🇪 — Tom Hengst\n\nHamburg rapper Tom Hengst enters the Offizielle Deutsche Album-Charts at No.7 with Zwei Zimmer, the week's highest Deutschrap album, ahead of Dardan's Dilemma at No.13. 16 tracks, with Olexesh, Kwam.E, Disarstar and Filow on board, plus Chilly Gonzales on two cuts. The Zwei Zimmer Tour hits Berlin and Köln in May 2027.\n\n🎧 Track: Bruce Wayne – Tom Hengst\n\nWho's next? Drop a name in the comments.\n\nData: Offizielle Deutsche Album-Charts, week 13.11.–19.11.2026\n\n#RADAR808 #TheRadar #Deutschrap #GermanRap #TomHengst #ZweiZimmer",
@@ -238,7 +242,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6afead8ec7454d8a54092a41"
   },
   {
    "id": "de-radar-tom-hengst-tt",
@@ -247,7 +252,7 @@
    "network": "tiktok",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "THE RADAR 🇩🇪 — Tom Hengst\n\nHamburg rapper Tom Hengst enters the Offizielle Deutsche Album-Charts at No.7 with Zwei Zimmer, the week's highest Deutschrap album, ahead of Dardan's Dilemma at No.13. 16 tracks, with Olexesh, Kwam.E, Disarstar and Filow on board, plus Chilly Gonzales on two cuts. The Zwei Zimmer Tour hits Berlin and Köln in May 2027.\n\n🎧 Track: Bruce Wayne – Tom Hengst\n\nWho's next? Drop a name in the comments.\n\nData: Offizielle Deutsche Album-Charts, week 13.11.–19.11.2026\n\n#RADAR808 #TheRadar #Deutschrap #GermanRap #TomHengst #ZweiZimmer",
@@ -298,7 +303,8 @@
       "title": "Tom Hengst cracks the German album top 10 with Zwei Zimmer"
      }
     }
-   }
+   },
+   "buffer_id": "6afead8ec7454d8a54092a96"
   },
   {
    "id": "de-radar-tom-hengst-story-newpost",
@@ -307,7 +313,7 @@
    "network": "instagram",
    "time": "21:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -326,7 +332,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6afead8fb7fe0c41dda9f1f7"
   }
  ]
 }
