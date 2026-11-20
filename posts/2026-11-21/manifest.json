@@ -1,6 +1,184 @@
 {
   "date": "2026-11-21",
   "status": "pending",
-  "note": "No content: Euro 10 not built. Weekly chart pages for IT/FR/DE (kworb Spotify weekly, FIMI, offiziellecharts.de) could not be read in the 20.11 evening run (fetch permission not granted, unattended). Nothing to auto-publish.",
-  "items": []
+  "note": "Euro 10 built on 21.11 at ~01:00 after Riccardo's reply (kworb access approved).",
+  "items": [
+    {
+      "id": "eu-euro10-wk46-ig",
+      "post": "eu-euro10-wk46",
+      "kind": "post",
+      "network": "instagram",
+      "time": "13:00",
+      "flagged": false,
+      "status": "pending",
+      "buffer": {
+        "channelId": "6afbc706ece6dfde5ff0811b",
+        "text": "EURO 10 🇪🇺 — Week ending 12 Nov\n\nWe added up the Spotify weekly charts of Italy, France, Germany, the UK, the Netherlands, Belgium and Poland: rap only, 101 points minus chart position. Result: French rap takes all ten spots. Vacra's \"Fille à Papa\" with La Rvfleuze is #1 with 196 points (#1 in France, #5 in Belgium), and Mauvais djo holds five of the ten. Kid Yugi (#1 in Italy) and 730 Huncho (#1 in Poland) stop at 100: one country isn't enough.\n\n🎧 Track: Fille à Papa – Vacra feat. La Rvfleuze\n\nNext week's #1: Vacra or Tiakola? Comment 1 or 2.\n\nData: Spotify Weekly Charts via kworb.net, week ending 12 Nov 2026\n\n#RADAR808 #Euro10 #FrenchRap #RapFrançais #Vacra #MauvaisDjo #Tiakola #EuropeanRap",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/IG_01.jpg",
+              "metadata": {
+                "altText": "Euro 10 cover: Vacra is number one in Europe with 196 points"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/IG_02.jpg",
+              "metadata": {
+                "altText": "Euro 10 positions 1 to 5 with points and chart positions in France and Belgium"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/IG_03.jpg",
+              "metadata": {
+                "altText": "Euro 10 positions 6 to 10 with points and chart positions in France and Belgium"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/IG_04.jpg",
+              "metadata": {
+                "altText": "Grid of the top 6 songs across 7 countries: all chart only in France and Belgium"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/IG_05.jpg",
+              "metadata": {
+                "altText": "The take and method: weekly Spotify charts of 7 countries, rap only, points by position"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "post",
+            "shouldShareToFeed": true
+          }
+        }
+      }
+    },
+    {
+      "id": "eu-euro10-wk46-tt",
+      "post": "eu-euro10-wk46",
+      "kind": "post",
+      "network": "tiktok",
+      "time": "13:00",
+      "flagged": false,
+      "status": "pending",
+      "buffer": {
+        "channelId": "6afbc426ece6dfde5ff04a06",
+        "text": "EURO 10 🇪🇺 — Week ending 12 Nov\n\nWe added up the Spotify weekly charts of Italy, France, Germany, the UK, the Netherlands, Belgium and Poland: rap only, 101 points minus chart position. Result: French rap takes all ten spots. Vacra's \"Fille à Papa\" with La Rvfleuze is #1 with 196 points (#1 in France, #5 in Belgium), and Mauvais djo holds five of the ten. Kid Yugi (#1 in Italy) and 730 Huncho (#1 in Poland) stop at 100: one country isn't enough.\n\n🎧 Track: Fille à Papa – Vacra feat. La Rvfleuze\n\nNext week's #1: Vacra or Tiakola? Comment 1 or 2.\n\nData: Spotify Weekly Charts via kworb.net, week ending 12 Nov 2026\n\n#RADAR808 #Euro10 #FrenchRap #RapFrançais #Vacra #MauvaisDjo #Tiakola #EuropeanRap",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/TT_01.jpg",
+              "metadata": {
+                "altText": "Euro 10 cover: Vacra is number one in Europe with 196 points"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/TT_02.jpg",
+              "metadata": {
+                "altText": "Euro 10 positions 1 to 5 with points and chart positions in France and Belgium"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/TT_03.jpg",
+              "metadata": {
+                "altText": "Euro 10 positions 6 to 10 with points and chart positions in France and Belgium"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/TT_04.jpg",
+              "metadata": {
+                "altText": "Grid of the top 6 songs across 7 countries: all chart only in France and Belgium"
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/TT_05.jpg",
+              "metadata": {
+                "altText": "The take and method: weekly Spotify charts of 7 countries, rap only, points by position"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "tiktok": {
+            "title": "Euro 10: French rap takes all ten spots in Europe's rap chart"
+          }
+        }
+      }
+    },
+    {
+      "id": "eu-euro10-wk46-story-newpost",
+      "post": "eu-euro10-wk46",
+      "kind": "story",
+      "network": "instagram",
+      "time": "13:10",
+      "flagged": false,
+      "status": "pending",
+      "buffer": {
+        "channelId": "6afbc706ece6dfde5ff0811b",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/story_newpost.jpg",
+              "metadata": {
+                "altText": "New post: Euro 10, French rap takes all ten"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "story",
+            "shouldShareToFeed": false
+          }
+        }
+      }
+    },
+    {
+      "id": "eu-euro10-wk46-story-vote",
+      "post": "eu-euro10-wk46",
+      "kind": "story",
+      "network": "instagram",
+      "time": "15:00",
+      "flagged": false,
+      "status": "pending",
+      "buffer": {
+        "channelId": "6afbc706ece6dfde5ff0811b",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-21/eu-euro10-wk46/story_vote.jpg",
+              "metadata": {
+                "altText": "Vote: next Euro 10 number one, 1 Vacra or 2 Tiakola"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "story",
+            "shouldShareToFeed": false
+          }
+        }
+      }
+    }
+  ]
 }
