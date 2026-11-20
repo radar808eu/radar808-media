@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "status": "pending",
+  "status": "scheduled",
   "note": "Euro 10 built on 21.11 at ~01:00 after Riccardo's reply (kworb access approved).",
   "items": [
     {
@@ -10,7 +10,7 @@
       "network": "instagram",
       "time": "13:00",
       "flagged": false,
-      "status": "pending",
+      "status": "scheduled",
       "buffer": {
         "channelId": "6afbc706ece6dfde5ff0811b",
         "text": "EURO 10 🇪🇺 — Week ending 12 Nov\n\nWe added up the Spotify weekly charts of Italy, France, Germany, the UK, the Netherlands, Belgium and Poland: rap only, 101 points minus chart position. Result: French rap takes all ten spots. Vacra's \"Fille à Papa\" with La Rvfleuze is #1 with 196 points (#1 in France, #5 in Belgium), and Mauvais djo holds five of the ten. Kid Yugi (#1 in Italy) and 730 Huncho (#1 in Poland) stop at 100: one country isn't enough.\n\n🎧 Track: Fille à Papa – Vacra feat. La Rvfleuze\n\nNext week's #1: Vacra or Tiakola? Comment 1 or 2.\n\nData: Spotify Weekly Charts via kworb.net, week ending 12 Nov 2026\n\n#RADAR808 #Euro10 #FrenchRap #RapFrançais #Vacra #MauvaisDjo #Tiakola #EuropeanRap",
@@ -62,7 +62,8 @@
             "shouldShareToFeed": true
           }
         }
-      }
+      },
+      "buffer_id": "6b00dd84d9cbb430a106844b"
     },
     {
       "id": "eu-euro10-wk46-tt",
@@ -71,7 +72,7 @@
       "network": "tiktok",
       "time": "13:00",
       "flagged": false,
-      "status": "pending",
+      "status": "scheduled",
       "buffer": {
         "channelId": "6afbc426ece6dfde5ff04a06",
         "text": "EURO 10 🇪🇺 — Week ending 12 Nov\n\nWe added up the Spotify weekly charts of Italy, France, Germany, the UK, the Netherlands, Belgium and Poland: rap only, 101 points minus chart position. Result: French rap takes all ten spots. Vacra's \"Fille à Papa\" with La Rvfleuze is #1 with 196 points (#1 in France, #5 in Belgium), and Mauvais djo holds five of the ten. Kid Yugi (#1 in Italy) and 730 Huncho (#1 in Poland) stop at 100: one country isn't enough.\n\n🎧 Track: Fille à Papa – Vacra feat. La Rvfleuze\n\nNext week's #1: Vacra or Tiakola? Comment 1 or 2.\n\nData: Spotify Weekly Charts via kworb.net, week ending 12 Nov 2026\n\n#RADAR808 #Euro10 #FrenchRap #RapFrançais #Vacra #MauvaisDjo #Tiakola #EuropeanRap",
@@ -122,7 +123,8 @@
             "title": "Euro 10: French rap takes all ten spots in Europe's rap chart"
           }
         }
-      }
+      },
+      "buffer_id": "6b00dd85d9cbb430a1068481"
     },
     {
       "id": "eu-euro10-wk46-story-newpost",
@@ -131,7 +133,7 @@
       "network": "instagram",
       "time": "13:10",
       "flagged": false,
-      "status": "pending",
+      "status": "scheduled",
       "buffer": {
         "channelId": "6afbc706ece6dfde5ff0811b",
         "assets": [
@@ -150,7 +152,8 @@
             "shouldShareToFeed": false
           }
         }
-      }
+      },
+      "buffer_id": "6b00dd859ffbc8503ce4c1c8"
     },
     {
       "id": "eu-euro10-wk46-story-vote",
@@ -159,7 +162,7 @@
       "network": "instagram",
       "time": "15:00",
       "flagged": false,
-      "status": "pending",
+      "status": "scheduled",
       "buffer": {
         "channelId": "6afbc706ece6dfde5ff0811b",
         "assets": [
@@ -178,7 +181,8 @@
             "shouldShareToFeed": false
           }
         }
-      }
+      },
+      "buffer_id": "6b00dd865e993799d839f62e"
     }
   ]
 }
