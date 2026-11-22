@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "status": "pending",
+ "status": "scheduled",
  "items": [
   {
    "id": "eu-week-wk47-ig",
@@ -9,7 +9,7 @@
    "network": "instagram",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "THE WEEK 🇪🇺 — 16–22 Nov 2026\n\nFive stories that moved European rap this week. Sfera Ebbasta dropped Purosangue three weeks early and booked Napoli's Maradona (17 June) and San Siro (16 July) for 2027. Ski Aggu & Ericson's \"Verschwommen\" went #1 in Germany in its 14th week on the chart, and Skepta is on all of the top four of the Official UK Rap Chart, led by \"Broken Hearts\" with Central Cee and Jorja Smith. Plus: Laylow announced INTENSE for 4 December, his first album in five years, and La Pantera's Filipenses debuted at #1 in Spain.\n\n🎧 Track: Verschwommen – Ski Aggu & Ericson\n\nWhich one was the biggest? Comment below.\n\nData: Offizielle Deutsche Charts (published 20 Nov), Official UK Rap Chart (20–26 Nov), Promusicae Top 100 Álbumes (week 46)\n\n#RADAR808 #TheWeek #EuropeanRap #SferaEbbasta #SkiAggu #Skepta #Laylow #LaPantera",
@@ -77,7 +77,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b0275f0c72676f5e9036fcd"
   },
   {
    "id": "eu-week-wk47-tt",
@@ -86,7 +87,7 @@
    "network": "tiktok",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "THE WEEK 🇪🇺 — 16–22 Nov 2026\n\nFive stories that moved European rap this week. Sfera Ebbasta dropped Purosangue three weeks early and booked Napoli's Maradona (17 June) and San Siro (16 July) for 2027. Ski Aggu & Ericson's \"Verschwommen\" went #1 in Germany in its 14th week on the chart, and Skepta is on all of the top four of the Official UK Rap Chart, led by \"Broken Hearts\" with Central Cee and Jorja Smith. Plus: Laylow announced INTENSE for 4 December, his first album in five years, and La Pantera's Filipenses debuted at #1 in Spain.\n\n🎧 Track: Verschwommen – Ski Aggu & Ericson\n\nWhich one was the biggest? Comment below.\n\nData: Offizielle Deutsche Charts (published 20 Nov), Official UK Rap Chart (20–26 Nov), Promusicae Top 100 Álbumes (week 46)\n\n#RADAR808 #TheWeek #EuropeanRap #SferaEbbasta #SkiAggu #Skepta #Laylow #LaPantera",
@@ -153,7 +154,8 @@
       "title": "THE WEEK: Sfera's stadiums, Ski Aggu #1, Skepta's top 4, Laylow returns"
      }
     }
-   }
+   },
+   "buffer_id": "6b0275f0cc364169c12aaaf4"
   },
   {
    "id": "eu-week-wk47-story-newpost",
@@ -162,7 +164,7 @@
    "network": "instagram",
    "time": "18:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -181,7 +183,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b0275f1d864a011059995b3"
   }
  ]
 }
