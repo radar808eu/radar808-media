@@ -1,0 +1,360 @@
+{
+ "date": "2026-11-23",
+ "status": "pending",
+ "items": [
+  {
+   "id": "lineup-story",
+   "post": "lineup",
+   "kind": "story",
+   "network": "instagram",
+   "time": "10:30",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/lineup/story_lineup.jpg",
+       "metadata": {
+        "altText": "Today on 808: Monday lineup"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "de-viral-tiktok-kw47-ig",
+   "post": "de-viral-tiktok-kw47",
+   "kind": "post",
+   "network": "instagram",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "VIRAL CHECK 🇩🇪 — TikTok DE Hot 50\n\nPapke takes #1 on German TikTok with \"Gauna Sport\": 202K creations in KW47, up from #2. Özät's \"Rahat Rahat\", last week's leader, slips to #4. New at #7: \"Black\" by Bantu Nation & co., which also lands straight at #3 on the official German singles chart.\n\n🎧 Track: GAUNA SPORT – Papke\n\nWho holds #1 next week? Comment 1 (Papke) or 2 (Özät).\n\nData: TikTok DE Hot 50 KW47 via MusikWoche (19.11.26); Offizielle Deutsche Charts, 20.11.26\n\n#RADAR808 #ViralCheck #Deutschrap #GermanRap #TikTokDE #Papke #GaunaSport",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/IG_01.jpg",
+       "metadata": {
+        "altText": "Viral Check cover: Gauna Sport by Papke is #1 on TikTok DE Hot 50, KW47"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/IG_02.jpg",
+       "metadata": {
+        "altText": "The sounds: Papke #1, Özät #4, Bantu Nation #7 on TikTok DE Hot 50 KW47"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/IG_03.jpg",
+       "metadata": {
+        "altText": "The one to watch: Papke, Berlin rapper"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/IG_04.jpg",
+       "metadata": {
+        "altText": "202K creations for Gauna Sport in KW47"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/IG_05.jpg",
+       "metadata": {
+        "altText": "Why it matters, plus vote 1 Papke or 2 Özät"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "de-viral-tiktok-kw47-tt",
+   "post": "de-viral-tiktok-kw47",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "VIRAL CHECK 🇩🇪 — TikTok DE Hot 50\n\nPapke takes #1 on German TikTok with \"Gauna Sport\": 202K creations in KW47, up from #2. Özät's \"Rahat Rahat\", last week's leader, slips to #4. New at #7: \"Black\" by Bantu Nation & co., which also lands straight at #3 on the official German singles chart.\n\n🎧 Track: GAUNA SPORT – Papke\n\nWho holds #1 next week? Comment 1 (Papke) or 2 (Özät).\n\nData: TikTok DE Hot 50 KW47 via MusikWoche (19.11.26); Offizielle Deutsche Charts, 20.11.26\n\n#RADAR808 #ViralCheck #Deutschrap #GermanRap #TikTokDE #Papke #GaunaSport",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/TT_01.jpg",
+       "metadata": {
+        "altText": "Viral Check cover: Gauna Sport by Papke is #1 on TikTok DE Hot 50, KW47"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/TT_02.jpg",
+       "metadata": {
+        "altText": "The sounds: Papke #1, Özät #4, Bantu Nation #7 on TikTok DE Hot 50 KW47"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/TT_03.jpg",
+       "metadata": {
+        "altText": "The one to watch: Papke, Berlin rapper"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/TT_04.jpg",
+       "metadata": {
+        "altText": "202K creations for Gauna Sport in KW47"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/TT_05.jpg",
+       "metadata": {
+        "altText": "Why it matters, plus vote 1 Papke or 2 Özät"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Who's #1 on German TikTok? Papke's Gauna Sport takes KW47"
+     }
+    }
+   }
+  },
+  {
+   "id": "de-viral-tiktok-kw47-story-newpost",
+   "post": "de-viral-tiktok-kw47",
+   "kind": "story",
+   "network": "instagram",
+   "time": "18:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post: who's #1 on German TikTok?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "de-viral-tiktok-kw47-story-vote",
+   "post": "de-viral-tiktok-kw47",
+   "kind": "story",
+   "network": "instagram",
+   "time": "20:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/de-viral-tiktok-kw47/story_vote.jpg",
+       "metadata": {
+        "altText": "Vote 1 Papke or 2 Özät in the comments"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "pl-radar-wane-ig",
+   "post": "pl-radar-wane",
+   "kind": "post",
+   "network": "instagram",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "THE RADAR 🇵🇱 — wane\n\nPopkillery 2026's Discovery of the Year is back with BLUEPRINT: 13 tracks, out 13.11, with Fimiguerrero on \"Core\" and Młody West on the extended \"Marlon Brando\". Three of his tracks have peaked inside Spotify Poland's daily top 10.\n\n🎧 Track: Core (feat. Fimiguerrero) – wane\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Poland daily chart via kworb.net, chart of 20.11.26\n\n#RADAR808 #TheRadar #PolskiRap #PolishRap #wane #BLUEPRINT",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/IG_01.jpg",
+       "metadata": {
+        "altText": "The Radar cover: wane, new album BLUEPRINT"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/IG_02.jpg",
+       "metadata": {
+        "altText": "Who is wane: awards, label, live"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/IG_03.jpg",
+       "metadata": {
+        "altText": "The run: Spotify Poland daily peaks of wane's tracks"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/IG_04.jpg",
+       "metadata": {
+        "altText": "The track: Core, wane feat. Fimiguerrero"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/IG_05.jpg",
+       "metadata": {
+        "altText": "Why wane is on the radar"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "pl-radar-wane-tt",
+   "post": "pl-radar-wane",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "THE RADAR 🇵🇱 — wane\n\nPopkillery 2026's Discovery of the Year is back with BLUEPRINT: 13 tracks, out 13.11, with Fimiguerrero on \"Core\" and Młody West on the extended \"Marlon Brando\". Three of his tracks have peaked inside Spotify Poland's daily top 10.\n\n🎧 Track: Core (feat. Fimiguerrero) – wane\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Poland daily chart via kworb.net, chart of 20.11.26\n\n#RADAR808 #TheRadar #PolskiRap #PolishRap #wane #BLUEPRINT",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/TT_01.jpg",
+       "metadata": {
+        "altText": "The Radar cover: wane, new album BLUEPRINT"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/TT_02.jpg",
+       "metadata": {
+        "altText": "Who is wane: awards, label, live"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/TT_03.jpg",
+       "metadata": {
+        "altText": "The run: Spotify Poland daily peaks of wane's tracks"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/TT_04.jpg",
+       "metadata": {
+        "altText": "The track: Core, wane feat. Fimiguerrero"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/TT_05.jpg",
+       "metadata": {
+        "altText": "Why wane is on the radar"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "wane: Poland's Discovery of the Year drops BLUEPRINT"
+     }
+    }
+   }
+  },
+  {
+   "id": "pl-radar-wane-story-newpost",
+   "post": "pl-radar-wane",
+   "kind": "story",
+   "network": "instagram",
+   "time": "21:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-23/pl-radar-wane/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post: wane, Poland's Discovery of the Year"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  }
+ ]
+}
