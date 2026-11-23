@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "status": "pending",
+ "status": "scheduled",
  "items": [
   {
    "id": "lineup-story",
@@ -9,7 +9,7 @@
    "network": "instagram",
    "time": "10:30",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -28,7 +28,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae418db0405bda428e0"
   },
   {
    "id": "fr-radar-cherry-pie-ig",
@@ -37,7 +38,7 @@
    "network": "instagram",
    "time": "12:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "THE RADAR 🇫🇷 — Cherry Pie\n\n\"BIR HAKEIM\" dropped on 23 September and it's still in the Spotify France top 10: #8, #8 and #10 on the last three weekly charts, with 1,311,688 streams in the week to 19 Nov. Built on Sade's \"Jezebel\", it's all over the radio too: 502 plays in 30 days, led by Skyrock and Mouv'. From La Plaine Saint-Denis, out of the La MBR collective, solo since 2024. @sosamann777\n\n🎧 Track: BIR HAKEIM – Cherry Pie\n\nWho's next? Drop a name in the comments.\n\nData: Spotify France weekly chart via kworb.net (w/e 05.11, 12.11, 19.11.26); SNEP Top Singles wk47\n\n#RADAR808 #TheRadar #RapFrancais #FrenchRap #CherryPie #BirHakeim",
@@ -103,7 +104,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae4c0a1a00006e086ae"
   },
   {
    "id": "fr-radar-cherry-pie-tt",
@@ -112,7 +114,7 @@
    "network": "tiktok",
    "time": "12:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "THE RADAR 🇫🇷 — Cherry Pie\n\n\"BIR HAKEIM\" dropped on 23 September and it's still in the Spotify France top 10: #8, #8 and #10 on the last three weekly charts, with 1,311,688 streams in the week to 19 Nov. Built on Sade's \"Jezebel\", it's all over the radio too: 502 plays in 30 days, led by Skyrock and Mouv'. From La Plaine Saint-Denis, out of the La MBR collective, solo since 2024.\n\n🎧 Track: BIR HAKEIM – Cherry Pie\n\nWho's next? Drop a name in the comments.\n\nData: Spotify France weekly chart via kworb.net (w/e 05.11, 12.11, 19.11.26); SNEP Top Singles wk47\n\n#RADAR808 #TheRadar #RapFrancais #FrenchRap #CherryPie #BirHakeim",
@@ -163,7 +165,8 @@
       "title": "Cherry Pie: still top 10 in France, two months after release"
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae558d65b8ef8caf11c"
   },
   {
    "id": "fr-radar-cherry-pie-story-newpost",
@@ -172,7 +175,7 @@
    "network": "instagram",
    "time": "12:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -191,7 +194,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae68165ce395b983ff3"
   },
   {
    "id": "uk-radar-season-25-ig",
@@ -200,7 +204,7 @@
    "network": "instagram",
    "time": "18:00",
    "flagged": true,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "THE RADAR 🇬🇧 — Season 25\n\n\"SHOTTA'S.\" went from a TikTok snippet to a seven-figure deal for one song. Self-released on TuneCore on 25 September, it's now #1 on the Official Hip Hop & R&B Singles Chart and #17 on the Official Singles Chart (20–26 Nov, up from #23). In Germany it enters the official chart at #16. The deal, announced on 12 Nov, is with Isekai Records and broke Records.\n\n🎧 Track: SHOTTA'S. – Season 25\n\nWho's next? Drop a name in the comments.\n\nData: Official Charts Company, 20–26 Nov 2026; Offizielle Deutsche Charts, 20.11–26.11.2026\n\n#RADAR808 #TheRadar #UKHipHop #UKRnB #Season25 #Shottas",
@@ -252,7 +256,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae6f72f10e18831f0ff"
   },
   {
    "id": "uk-radar-season-25-tt",
@@ -261,7 +266,7 @@
    "network": "tiktok",
    "time": "18:00",
    "flagged": true,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "THE RADAR 🇬🇧 — Season 25\n\n\"SHOTTA'S.\" went from a TikTok snippet to a seven-figure deal for one song. Self-released on TuneCore on 25 September, it's now #1 on the Official Hip Hop & R&B Singles Chart and #17 on the Official Singles Chart (20–26 Nov, up from #23). In Germany it enters the official chart at #16. The deal, announced on 12 Nov, is with Isekai Records and broke Records.\n\n🎧 Track: SHOTTA'S. – Season 25\n\nWho's next? Drop a name in the comments.\n\nData: Official Charts Company, 20–26 Nov 2026; Offizielle Deutsche Charts, 20.11–26.11.2026\n\n#RADAR808 #TheRadar #UKHipHop #UKRnB #Season25 #Shottas",
@@ -312,7 +317,8 @@
       "title": "Season 25: from a TikTok snippet to a seven-figure deal"
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae718db0405bda429a5"
   },
   {
    "id": "uk-radar-season-25-story-newpost",
@@ -321,7 +327,7 @@
    "network": "instagram",
    "time": "18:10",
    "flagged": true,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -340,7 +346,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae707fee37ee600af19"
   },
   {
    "id": "it-beat-dat-boi-dee-ig",
@@ -349,7 +356,7 @@
    "network": "instagram",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "BEHIND THE BEAT 🇮🇹 — Dat Boi Dee\n\nThe beat on Frezza's \"7/7\" comes from Naples: Dat Boi Dee co-produced it with Manuel Erry. The track hit #18 on Spotify Italy's weekly chart (w/e 12 Nov, 688K streams). Dat Boi Dee, real name Davide Totaro, is also behind Geolier's \"Narcos\", Samurai Jay's \"Gang\" and his own \"Vamos pa la banca\" with Geolier, Samurai Jay and Lele Blade. His reference: early-2000s US production.\n\n🎧 Track: 7/7 – Frezza\n\nWho should we put behind the beat next? Drop a producer in the comments.\n\nData: Spotify Italy weekly via Soundcharts (w/e 12.11.26); Spotify Italy daily via kworb.net\n\n#RADAR808 #BehindTheBeat #RapItaliano #RapNapoletano #DatBoiDee #Frezza #Producer",
@@ -401,7 +408,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae807fee37ee600af8f"
   },
   {
    "id": "it-beat-dat-boi-dee-tt",
@@ -410,7 +418,7 @@
    "network": "tiktok",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "BEHIND THE BEAT 🇮🇹 — Dat Boi Dee\n\nThe beat on Frezza's \"7/7\" comes from Naples: Dat Boi Dee co-produced it with Manuel Erry. The track hit #18 on Spotify Italy's weekly chart (w/e 12 Nov, 688K streams). Dat Boi Dee, real name Davide Totaro, is also behind Geolier's \"Narcos\", Samurai Jay's \"Gang\" and his own \"Vamos pa la banca\" with Geolier, Samurai Jay and Lele Blade. His reference: early-2000s US production.\n\n🎧 Track: 7/7 – Frezza\n\nWho should we put behind the beat next? Drop a producer in the comments.\n\nData: Spotify Italy weekly via Soundcharts (w/e 12.11.26); Spotify Italy daily via kworb.net\n\n#RADAR808 #BehindTheBeat #RapItaliano #RapNapoletano #DatBoiDee #Frezza #Producer",
@@ -461,7 +469,8 @@
       "title": "Who made Frezza's 7/7? Meet Dat Boi Dee"
      }
     }
-   }
+   },
+   "buffer_id": "6b04aae9c0a1a00006e08871"
   },
   {
    "id": "it-beat-dat-boi-dee-story-newpost",
@@ -470,7 +479,7 @@
    "network": "instagram",
    "time": "21:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -489,7 +498,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b04aaeaf72f10e18831f23f"
   }
  ]
 }
