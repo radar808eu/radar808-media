@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "status": "pending",
+ "status": "auto_scheduled",
  "items": [
   {
    "id": "lineup-story",
@@ -9,7 +9,7 @@
    "network": "instagram",
    "time": "10:30",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -28,7 +28,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b03f38d9c207fed95851922"
   },
   {
    "id": "de-viral-tiktok-kw47-ig",
@@ -37,7 +38,7 @@
    "network": "instagram",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "VIRAL CHECK 🇩🇪 — TikTok DE Hot 50\n\nPapke takes #1 on German TikTok with \"Gauna Sport\": 202K creations in KW47, up from #2. Özät's \"Rahat Rahat\", last week's leader, slips to #4. New at #7: \"Black\" by Bantu Nation & co., which also lands straight at #3 on the official German singles chart.\n\n🎧 Track: GAUNA SPORT – Papke\n\nWho holds #1 next week? Comment 1 (Papke) or 2 (Özät).\n\nData: TikTok DE Hot 50 KW47 via MusikWoche (19.11.26); Offizielle Deutsche Charts, 20.11.26\n\n#RADAR808 #ViralCheck #Deutschrap #GermanRap #TikTokDE #Papke #GaunaSport",
@@ -89,7 +90,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b03f38e51038c931ba2c1e1"
   },
   {
    "id": "de-viral-tiktok-kw47-tt",
@@ -98,7 +100,7 @@
    "network": "tiktok",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "VIRAL CHECK 🇩🇪 — TikTok DE Hot 50\n\nPapke takes #1 on German TikTok with \"Gauna Sport\": 202K creations in KW47, up from #2. Özät's \"Rahat Rahat\", last week's leader, slips to #4. New at #7: \"Black\" by Bantu Nation & co., which also lands straight at #3 on the official German singles chart.\n\n🎧 Track: GAUNA SPORT – Papke\n\nWho holds #1 next week? Comment 1 (Papke) or 2 (Özät).\n\nData: TikTok DE Hot 50 KW47 via MusikWoche (19.11.26); Offizielle Deutsche Charts, 20.11.26\n\n#RADAR808 #ViralCheck #Deutschrap #GermanRap #TikTokDE #Papke #GaunaSport",
@@ -149,7 +151,8 @@
       "title": "Who's #1 on German TikTok? Papke's Gauna Sport takes KW47"
      }
     }
-   }
+   },
+   "buffer_id": "6b03f38f00ec56c26fe8e610"
   },
   {
    "id": "de-viral-tiktok-kw47-story-newpost",
@@ -158,7 +161,7 @@
    "network": "instagram",
    "time": "18:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -177,7 +180,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b03f38f9c1a68014f5a9d51"
   },
   {
    "id": "de-viral-tiktok-kw47-story-vote",
@@ -186,7 +190,7 @@
    "network": "instagram",
    "time": "20:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -205,7 +209,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b03f3904d584ce2682fb45f"
   },
   {
    "id": "pl-radar-wane-ig",
@@ -214,7 +219,7 @@
    "network": "instagram",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "THE RADAR 🇵🇱 — wane\n\nPopkillery 2026's Discovery of the Year is back with BLUEPRINT: 13 tracks, out 13.11, with Fimiguerrero on \"Core\" and Młody West on the extended \"Marlon Brando\". Three of his tracks have peaked inside Spotify Poland's daily top 10.\n\n🎧 Track: Core (feat. Fimiguerrero) – wane\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Poland daily chart via kworb.net, chart of 20.11.26\n\n#RADAR808 #TheRadar #PolskiRap #PolishRap #wane #BLUEPRINT",
@@ -266,7 +271,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b03f3904d584ce2682fb48e"
   },
   {
    "id": "pl-radar-wane-tt",
@@ -275,7 +281,7 @@
    "network": "tiktok",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "THE RADAR 🇵🇱 — wane\n\nPopkillery 2026's Discovery of the Year is back with BLUEPRINT: 13 tracks, out 13.11, with Fimiguerrero on \"Core\" and Młody West on the extended \"Marlon Brando\". Three of his tracks have peaked inside Spotify Poland's daily top 10.\n\n🎧 Track: Core (feat. Fimiguerrero) – wane\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Poland daily chart via kworb.net, chart of 20.11.26\n\n#RADAR808 #TheRadar #PolskiRap #PolishRap #wane #BLUEPRINT",
@@ -326,7 +332,8 @@
       "title": "wane: Poland's Discovery of the Year drops BLUEPRINT"
      }
     }
-   }
+   },
+   "buffer_id": "6b03f3914d584ce2682fb4d1"
   },
   {
    "id": "pl-radar-wane-story-newpost",
@@ -335,7 +342,7 @@
    "network": "instagram",
    "time": "21:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -354,7 +361,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b03f3914d584ce2682fb538"
   }
  ]
 }
