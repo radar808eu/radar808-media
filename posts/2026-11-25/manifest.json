@@ -1,0 +1,360 @@
+{
+ "date": "2026-11-25",
+ "status": "pending",
+ "items": [
+  {
+   "id": "lineup-story",
+   "post": "lineup",
+   "kind": "story",
+   "network": "instagram",
+   "time": "10:30",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/lineup/story_lineup.jpg",
+       "metadata": {
+        "altText": "Today on 808: Wednesday lineup"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-market-snep-wk47-ig",
+   "post": "fr-market-snep-wk47",
+   "kind": "post",
+   "network": "instagram",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "MARKET CHECK 🇫🇷 — SDM vs the new gen\n\nSNEP week 47: BANTU MENTALITÉ by SDM & Ninho is new at No.1 singles, replacing Fille à Papa, and SDM's album IN INFINITUM lands at No.2 with 15 tracks in the singles Top 100. Under the storm, L2B's Dedans is the week's biggest rap climber, No.40 → No.13, and doubled its Spotify France streams. Fresh SNEP platinums and golds for HMZ & Werenoi, Maes, Yuston XIII and ISK.\n\n🎧 Track: Dedans – L2B\n\nWho's No.1 next week? Comment 1 for SDM & Ninho, 2 for Vacra & La Rvfleuze.\n\nData: SNEP Top Singles & Top Albums, week 47/2026 · SNEP certifications, 20 Nov 2026 · Spotify Weekly France (via kworb), week to 19 Nov 2026\n\n#RADAR808 #MarketCheck #RapFR #RapFrançais #SNEP #SDM #L2B",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/IG_01.jpg",
+       "metadata": {
+        "altText": "Market Check France cover: SDM and Ninho new at No.1 on SNEP week 47, L2B biggest rap climber"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/IG_02.jpg",
+       "metadata": {
+        "altText": "Top 5 rap songs on Spotify Weekly France, week to 19 November 2026, weekly streams"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/IG_03.jpg",
+       "metadata": {
+        "altText": "New SNEP certifications for rap, 20 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/IG_04.jpg",
+       "metadata": {
+        "altText": "The climber: Dedans by L2B, No.40 to No.13 on SNEP Top Singles"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/IG_05.jpg",
+       "metadata": {
+        "altText": "The take and the Comment 1 or 2 question"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-market-snep-wk47-tt",
+   "post": "fr-market-snep-wk47",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "MARKET CHECK 🇫🇷 — SDM vs the new gen\n\nSNEP week 47: BANTU MENTALITÉ by SDM & Ninho is new at No.1 singles, replacing Fille à Papa, and SDM's album IN INFINITUM lands at No.2 with 15 tracks in the singles Top 100. Under the storm, L2B's Dedans is the week's biggest rap climber, No.40 → No.13, and doubled its Spotify France streams. Fresh SNEP platinums and golds for HMZ & Werenoi, Maes, Yuston XIII and ISK.\n\n🎧 Track: Dedans – L2B\n\nWho's No.1 next week? Comment 1 for SDM & Ninho, 2 for Vacra & La Rvfleuze.\n\nData: SNEP Top Singles & Top Albums, week 47/2026 · SNEP certifications, 20 Nov 2026 · Spotify Weekly France (via kworb), week to 19 Nov 2026\n\n#RADAR808 #MarketCheck #RapFR #RapFrançais #SNEP #SDM #L2B",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/TT_01.jpg",
+       "metadata": {
+        "altText": "Market Check France cover: SDM and Ninho new at No.1 on SNEP week 47, L2B biggest rap climber"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/TT_02.jpg",
+       "metadata": {
+        "altText": "Top 5 rap songs on Spotify Weekly France, week to 19 November 2026, weekly streams"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/TT_03.jpg",
+       "metadata": {
+        "altText": "New SNEP certifications for rap, 20 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/TT_04.jpg",
+       "metadata": {
+        "altText": "The climber: Dedans by L2B, No.40 to No.13 on SNEP Top Singles"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/TT_05.jpg",
+       "metadata": {
+        "altText": "The take and the Comment 1 or 2 question"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "SNEP week 47: SDM takes No.1, L2B is the rap climber"
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-market-snep-wk47-story-newpost",
+   "post": "fr-market-snep-wk47",
+   "kind": "story",
+   "network": "instagram",
+   "time": "18:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-market-snep-wk47-story-vote",
+   "post": "fr-market-snep-wk47",
+   "kind": "story",
+   "network": "instagram",
+   "time": "20:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/fr-market-snep-wk47/story_vote.jpg",
+       "metadata": {
+        "altText": "Vote 1 or 2 in the comments of our latest post"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "pt-radar-smorra-ig",
+   "post": "pt-radar-smorra",
+   "kind": "post",
+   "network": "instagram",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "THE RADAR 🇵🇹 — Isak & Armando Teles\n\nPorto's SMORRA crew just pulled off a full sweep: all five tracks of Salamanca, the new EP from Isak and Armando Teles (out 13 Nov on SMORRA Records, produced by Prod Vitor), entered Spotify Portugal's weekly chart in release week, led by Põe Na Conta at No.42. Their older songs climbed with them, and two Hard Club Porto nights on 3 and 4 December are reported sold out.\n\n🎧 Track: Põe Na Conta – Isak & Armando Teles\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Weekly Chart Portugal (via kworb), week to 19 Nov 2026\n\n#RADAR808 #TheRadar #RapTuga #HipHopPortugal #SMORRA #Isak #ArmandoTeles",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/IG_01.jpg",
+       "metadata": {
+        "altText": "The Radar Portugal cover: Isak and Armando Teles of SMORRA, Porto"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/IG_02.jpg",
+       "metadata": {
+        "altText": "Who: SMORRA crew, Porto, new EP Salamanca"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/IG_03.jpg",
+       "metadata": {
+        "altText": "All five Salamanca tracks new on Spotify Weekly Portugal, week to 19 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/IG_04.jpg",
+       "metadata": {
+        "altText": "The track: Põe Na Conta by Isak and Armando Teles"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/IG_05.jpg",
+       "metadata": {
+        "altText": "Why they're on the radar and the Who's next question"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "pt-radar-smorra-tt",
+   "post": "pt-radar-smorra",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "THE RADAR 🇵🇹 — Isak & Armando Teles\n\nPorto's SMORRA crew just pulled off a full sweep: all five tracks of Salamanca, the new EP from Isak and Armando Teles (out 13 Nov on SMORRA Records, produced by Prod Vitor), entered Spotify Portugal's weekly chart in release week, led by Põe Na Conta at No.42. Their older songs climbed with them, and two Hard Club Porto nights on 3 and 4 December are reported sold out.\n\n🎧 Track: Põe Na Conta – Isak & Armando Teles\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Weekly Chart Portugal (via kworb), week to 19 Nov 2026\n\n#RADAR808 #TheRadar #RapTuga #HipHopPortugal #SMORRA #Isak #ArmandoTeles",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/TT_01.jpg",
+       "metadata": {
+        "altText": "The Radar Portugal cover: Isak and Armando Teles of SMORRA, Porto"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/TT_02.jpg",
+       "metadata": {
+        "altText": "Who: SMORRA crew, Porto, new EP Salamanca"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/TT_03.jpg",
+       "metadata": {
+        "altText": "All five Salamanca tracks new on Spotify Weekly Portugal, week to 19 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/TT_04.jpg",
+       "metadata": {
+        "altText": "The track: Põe Na Conta by Isak and Armando Teles"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/TT_05.jpg",
+       "metadata": {
+        "altText": "Why they're on the radar and the Who's next question"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Porto's SMORRA put a whole EP on the Spotify Portugal chart"
+     }
+    }
+   }
+  },
+  {
+   "id": "pt-radar-smorra-story-newpost",
+   "post": "pt-radar-smorra",
+   "kind": "story",
+   "network": "instagram",
+   "time": "21:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-25/pt-radar-smorra/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  }
+ ]
+}
