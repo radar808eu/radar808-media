@@ -1,0 +1,332 @@
+{
+ "date": "2026-11-26",
+ "status": "pending",
+ "items": [
+  {
+   "id": "lineup-story",
+   "post": "lineup",
+   "kind": "story",
+   "network": "instagram",
+   "time": "10:30",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/lineup/story_lineup.jpg",
+       "metadata": {
+        "altText": "Today on RADAR 808: Behind the Beat Germany at 18:00, The Radar Belgium at 21:00"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "de-beat-gorex-ig",
+   "post": "de-beat-gorex",
+   "kind": "post",
+   "network": "instagram",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "BEHIND THE BEAT 🇩🇪 — Gorex\n\nSeven rappers, one beat. BLACK by Bantu Nation (Nu51, Des, G-Mac) with Jazeek, Luciano, reezy and THIZZY52 opened at No.1 on Spotify's Germany weekly chart with 2,624,861 streams, and is new at No.3 on the official German singles chart. The beat is by Gorex, who runs Amaterasu Tonstudio in Gelsenkirchen and also mixed and mastered the track. His studio credits run from Kay One and Bausa to Kollegah and Kasimir1441.\n\n🎧 Track: BLACK – Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy, THIZZY52\n\nWhich producer should we put behind the beat next? Drop a name.\n\nData: Spotify Weekly Germany (via kworb), week to 19 Nov 2026 · Offizielle Deutsche Charts, Top 100 Singles, 20–26 Nov 2026\n\n#RADAR808 #BehindTheBeat #Deutschrap #GermanRap #Producer #Gorex #BantuNation",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/IG_01.jpg",
+       "metadata": {
+        "altText": "Behind the Beat cover: Gorex, producer of BLACK by Bantu Nation with Jazeek, Luciano, reezy and THIZZY52"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/IG_02.jpg",
+       "metadata": {
+        "altText": "The credits of BLACK: produced, mixed and mastered by Gorex, released 12 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/IG_03.jpg",
+       "metadata": {
+        "altText": "The run: Gorex's studio credits from 2013 to 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/IG_04.jpg",
+       "metadata": {
+        "altText": "BLACK: No.1 on Spotify Germany weekly, 2,624,861 streams, new at No.3 on the official German singles chart"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/IG_05.jpg",
+       "metadata": {
+        "altText": "Why it matters, and a question: which producer should we feature next?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "de-beat-gorex-tt",
+   "post": "de-beat-gorex",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "BEHIND THE BEAT 🇩🇪 — Gorex\n\nSeven rappers, one beat. BLACK by Bantu Nation (Nu51, Des, G-Mac) with Jazeek, Luciano, reezy and THIZZY52 opened at No.1 on Spotify's Germany weekly chart with 2,624,861 streams, and is new at No.3 on the official German singles chart. The beat is by Gorex, who runs Amaterasu Tonstudio in Gelsenkirchen and also mixed and mastered the track. His studio credits run from Kay One and Bausa to Kollegah and Kasimir1441.\n\n🎧 Track: BLACK – Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy, THIZZY52\n\nWhich producer should we put behind the beat next? Drop a name.\n\nData: Spotify Weekly Germany (via kworb), week to 19 Nov 2026 · Offizielle Deutsche Charts, Top 100 Singles, 20–26 Nov 2026\n\n#RADAR808 #BehindTheBeat #Deutschrap #GermanRap #Producer #Gorex #BantuNation",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/TT_01.jpg",
+       "metadata": {
+        "altText": "Behind the Beat cover: Gorex, producer of BLACK by Bantu Nation with Jazeek, Luciano, reezy and THIZZY52"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/TT_02.jpg",
+       "metadata": {
+        "altText": "The credits of BLACK: produced, mixed and mastered by Gorex, released 12 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/TT_03.jpg",
+       "metadata": {
+        "altText": "The run: Gorex's studio credits from 2013 to 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/TT_04.jpg",
+       "metadata": {
+        "altText": "BLACK: No.1 on Spotify Germany weekly, 2,624,861 streams, new at No.3 on the official German singles chart"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/TT_05.jpg",
+       "metadata": {
+        "altText": "Why it matters, and a question: which producer should we feature next?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Behind the Beat: Gorex, the producer behind Germany's new Spotify No.1"
+     }
+    }
+   }
+  },
+  {
+   "id": "de-beat-gorex-story-newpost",
+   "post": "de-beat-gorex",
+   "kind": "story",
+   "network": "instagram",
+   "time": "18:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/de-beat-gorex/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "be-radar-issah-ig",
+   "post": "be-radar-issah",
+   "kind": "post",
+   "network": "instagram",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "THE RADAR 🇧🇪 — Issah\n\nAntwerp rapper-producer Issah went viral in September with Baddies In Belgica, a beat he produced himself: 35,000+ TikTok videos by 1 October, per Top40. The single peaked at No.3 on Spotify's Netherlands weekly chart and is still No.19 after 8 weeks. The Frenna remix, Baddies In Hollanda, is up to No.23, and Baddies In Almanya dropped on 18 November. Belgium, the Netherlands, now Germany.\n\n🎧 Track: BADDIES IN BELGICA – Issah\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Weekly Netherlands (via kworb), week to 19 Nov 2026\n\n#RADAR808 #TheRadar #BelgianRap #Antwerpen #DutchRap #Issah #BaddiesInBelgica",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/IG_01.jpg",
+       "metadata": {
+        "altText": "The Radar cover: Issah, rapper and producer from Antwerp, Belgium"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/IG_02.jpg",
+       "metadata": {
+        "altText": "Who is Issah: Ihssan Masae, from Antwerp, rapper and producer"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/IG_03.jpg",
+       "metadata": {
+        "altText": "The run: Baddies In Belgica goes viral, Hollanda remix with Frenna, Almanya out 18 November"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/IG_04.jpg",
+       "metadata": {
+        "altText": "Baddies In Belgica peaked at No.3 on Spotify Netherlands weekly"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/IG_05.jpg",
+       "metadata": {
+        "altText": "Why Issah is on the radar, and who's next?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "be-radar-issah-tt",
+   "post": "be-radar-issah",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "THE RADAR 🇧🇪 — Issah\n\nAntwerp rapper-producer Issah went viral in September with Baddies In Belgica, a beat he produced himself: 35,000+ TikTok videos by 1 October, per Top40. The single peaked at No.3 on Spotify's Netherlands weekly chart and is still No.19 after 8 weeks. The Frenna remix, Baddies In Hollanda, is up to No.23, and Baddies In Almanya dropped on 18 November. Belgium, the Netherlands, now Germany.\n\n🎧 Track: BADDIES IN BELGICA – Issah\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Weekly Netherlands (via kworb), week to 19 Nov 2026\n\n#RADAR808 #TheRadar #BelgianRap #Antwerpen #DutchRap #Issah #BaddiesInBelgica",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/TT_01.jpg",
+       "metadata": {
+        "altText": "The Radar cover: Issah, rapper and producer from Antwerp, Belgium"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/TT_02.jpg",
+       "metadata": {
+        "altText": "Who is Issah: Ihssan Masae, from Antwerp, rapper and producer"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/TT_03.jpg",
+       "metadata": {
+        "altText": "The run: Baddies In Belgica goes viral, Hollanda remix with Frenna, Almanya out 18 November"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/TT_04.jpg",
+       "metadata": {
+        "altText": "Baddies In Belgica peaked at No.3 on Spotify Netherlands weekly"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/TT_05.jpg",
+       "metadata": {
+        "altText": "Why Issah is on the radar, and who's next?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "The Radar: Issah, the Antwerp rapper-producer behind Baddies In Belgica"
+     }
+    }
+   }
+  },
+  {
+   "id": "be-radar-issah-story-newpost",
+   "post": "be-radar-issah",
+   "kind": "story",
+   "network": "instagram",
+   "time": "21:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-26/be-radar-issah/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post on RADAR 808"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  }
+ ]
+}
