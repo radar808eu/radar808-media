@@ -1,0 +1,360 @@
+{
+ "date": "2026-11-27",
+ "status": "pending",
+ "items": [
+  {
+   "id": "lineup-story",
+   "post": "lineup",
+   "kind": "story",
+   "network": "instagram",
+   "time": "10:30",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/lineup/story_lineup.jpg",
+       "metadata": {
+        "altText": "Today on RADAR 808: Release Friday Italy at 18:00, Release Friday Europe at 21:00"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "it-friday-mace-sangha-ig",
+   "post": "it-friday-mace-sangha",
+   "kind": "post",
+   "network": "instagram",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "RELEASE FRIDAY 🇮🇹 — MACE\n\nSANGHA is out today via Atlantic Records Italy / Warner Music Italy: 18 tracks, 28 guests, from 22simba to Gianna Nannini, with Salmo, Noyz Narcos, Gemitaiz, Izi, Nayt, Colapesce and Venerus in the circle. Mace built it during a three-week residency in Tuscany with more than 60 people taking turns, the same method behind MĀYĀ. The title is Sanskrit for \"community\".\n\n🎧 Track: Splendida follia – MACE, centomilacarie, Gianna Nannini\n\nWhich guest steals SANGHA? Comment below.\n\n#RADAR808 #ReleaseFriday #Mace #Sangha #RapItaliano #ItalianRap #Producer",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/IG_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: SANGHA by MACE on a cassette label, 18 tracks, 28 guests"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/IG_02.jpg",
+       "metadata": {
+        "altText": "Fact sheet: SANGHA, MACE, out 27 November 2026, Atlantic Records Italy / Warner Music Italy, recorded in a Tuscany residency"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/IG_03.jpg",
+       "metadata": {
+        "altText": "Who's on it: five tracks and their guests, from Satellite to Cattive Abitudini"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/IG_04.jpg",
+       "metadata": {
+        "altText": "The track: Splendida follia, opener with centomilacarie and Gianna Nannini"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/IG_05.jpg",
+       "metadata": {
+        "altText": "Why it matters: 28 guests, residency method, every track featured; question: which guest steals SANGHA?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "it-friday-mace-sangha-tt",
+   "post": "it-friday-mace-sangha",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "18:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "RELEASE FRIDAY 🇮🇹 — MACE\n\nSANGHA is out today via Atlantic Records Italy / Warner Music Italy: 18 tracks, 28 guests, from 22simba to Gianna Nannini, with Salmo, Noyz Narcos, Gemitaiz, Izi, Nayt, Colapesce and Venerus in the circle. Mace built it during a three-week residency in Tuscany with more than 60 people taking turns, the same method behind MĀYĀ. The title is Sanskrit for \"community\".\n\n🎧 Track: Splendida follia – MACE, centomilacarie, Gianna Nannini\n\nWhich guest steals SANGHA? Comment below.\n\n#RADAR808 #ReleaseFriday #Mace #Sangha #RapItaliano #ItalianRap #Producer",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/TT_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: SANGHA by MACE on a cassette label, 18 tracks, 28 guests"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/TT_02.jpg",
+       "metadata": {
+        "altText": "Fact sheet: SANGHA, MACE, out 27 November 2026, Atlantic Records Italy / Warner Music Italy, recorded in a Tuscany residency"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/TT_03.jpg",
+       "metadata": {
+        "altText": "Who's on it: five tracks and their guests, from Satellite to Cattive Abitudini"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/TT_04.jpg",
+       "metadata": {
+        "altText": "The track: Splendida follia, opener with centomilacarie and Gianna Nannini"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/TT_05.jpg",
+       "metadata": {
+        "altText": "Why it matters: 28 guests, residency method, every track featured; question: which guest steals SANGHA?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Mace drops SANGHA: 18 tracks, 28 guests"
+     }
+    }
+   }
+  },
+  {
+   "id": "it-friday-mace-sangha-story-newpost",
+   "post": "it-friday-mace-sangha",
+   "kind": "story",
+   "network": "instagram",
+   "time": "18:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/it-friday-mace-sangha/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post: Mace drops SANGHA with 28 guests"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "eu-friday-sido-rnboi-ig",
+   "post": "eu-friday-sido-rnboi",
+   "kind": "post",
+   "network": "instagram",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "text": "RELEASE FRIDAY 🇪🇺 — Sido vs RnBoi\n\n🇩🇪 Sido drops Frieden, his tenth solo studio album and the first since Paul (2022): 15 tracks, guests on nine, including Gzuz, Kontra K, Fler, Shindy, Marteria and Sarah Connor. The Frieden Tour 2027 hits arenas in Germany, Austria and Switzerland next autumn.\n🇫🇷 RnBoi answers with Après Minuit: 12 tracks via Double Jeu Records & Nakamura Industrie.\n\n🎧 Track: Propaganda – Sido, Fler\n\nWhich one gets your first play? Comment 1 (Frieden) or 2 (Après Minuit).\n\n#RADAR808 #ReleaseFriday #Sido #RnBoi #Deutschrap #RapFrancais #Frieden #ApresMinuit",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/IG_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: 1 or 2, Sido Frieden vs RnBoi Après Minuit on a cassette label"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/IG_02.jpg",
+       "metadata": {
+        "altText": "Germany: Sido's Frieden, tenth solo studio album, 15 tracks, guests, singles and 2027 tour"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/IG_03.jpg",
+       "metadata": {
+        "altText": "France: RnBoi's Après Minuit, 12 tracks, out 27 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/IG_04.jpg",
+       "metadata": {
+        "altText": "The track: Propaganda by Sido and Fler"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/IG_05.jpg",
+       "metadata": {
+        "altText": "1 or 2: comment which album gets your first play"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+     }
+    }
+   }
+  },
+  {
+   "id": "eu-friday-sido-rnboi-tt",
+   "post": "eu-friday-sido-rnboi",
+   "kind": "post",
+   "network": "tiktok",
+   "time": "21:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc426ece6dfde5ff04a06",
+    "text": "RELEASE FRIDAY 🇪🇺 — Sido vs RnBoi\n\n🇩🇪 Sido drops Frieden, his tenth solo studio album and the first since Paul (2022): 15 tracks, guests on nine, including Gzuz, Kontra K, Fler, Shindy, Marteria and Sarah Connor. The Frieden Tour 2027 hits arenas in Germany, Austria and Switzerland next autumn.\n🇫🇷 RnBoi answers with Après Minuit: 12 tracks via Double Jeu Records & Nakamura Industrie.\n\n🎧 Track: Propaganda – Sido, Fler\n\nWhich one gets your first play? Comment 1 (Frieden) or 2 (Après Minuit).\n\n#RADAR808 #ReleaseFriday #Sido #RnBoi #Deutschrap #RapFrancais #Frieden #ApresMinuit",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/TT_01.jpg",
+       "metadata": {
+        "altText": "Release Friday cover: 1 or 2, Sido Frieden vs RnBoi Après Minuit on a cassette label"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/TT_02.jpg",
+       "metadata": {
+        "altText": "Germany: Sido's Frieden, tenth solo studio album, 15 tracks, guests, singles and 2027 tour"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/TT_03.jpg",
+       "metadata": {
+        "altText": "France: RnBoi's Après Minuit, 12 tracks, out 27 November 2026"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/TT_04.jpg",
+       "metadata": {
+        "altText": "The track: Propaganda by Sido and Fler"
+       }
+      }
+     },
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/TT_05.jpg",
+       "metadata": {
+        "altText": "1 or 2: comment which album gets your first play"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "tiktok": {
+      "title": "Release Friday: Sido's Frieden vs RnBoi's Après Minuit"
+     }
+    }
+   }
+  },
+  {
+   "id": "eu-friday-sido-rnboi-story-newpost",
+   "post": "eu-friday-sido-rnboi",
+   "kind": "story",
+   "network": "instagram",
+   "time": "21:10",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/story_newpost.jpg",
+       "metadata": {
+        "altText": "New post: Sido vs RnBoi, which album first?"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  },
+  {
+   "id": "eu-friday-sido-rnboi-story-vote",
+   "post": "eu-friday-sido-rnboi",
+   "kind": "story",
+   "network": "instagram",
+   "time": "23:00",
+   "flagged": false,
+   "status": "pending",
+   "buffer": {
+    "channelId": "6afbc706ece6dfde5ff0811b",
+    "assets": [
+     {
+      "image": {
+       "url": "https://raw.githubusercontent.com/radar808eu/radar808-media/main/posts/2026-11-27/eu-friday-sido-rnboi/story_vote.jpg",
+       "metadata": {
+        "altText": "Vote: Frieden by Sido (1) or Après Minuit by RnBoi (2), answer in the comments of our latest post"
+       }
+      }
+     }
+    ],
+    "metadata": {
+     "instagram": {
+      "type": "story",
+      "shouldShareToFeed": false
+     }
+    }
+   }
+  }
+ ]
+}
