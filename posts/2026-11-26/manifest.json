@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "status": "pending",
+ "status": "auto_scheduled",
  "items": [
   {
    "id": "lineup-story",
@@ -9,7 +9,7 @@
    "network": "instagram",
    "time": "10:30",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -28,7 +28,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b07e7c663939e1d00834df4"
   },
   {
    "id": "de-beat-gorex-ig",
@@ -37,7 +38,7 @@
    "network": "instagram",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "BEHIND THE BEAT 🇩🇪 — Gorex\n\nSeven rappers, one beat. BLACK by Bantu Nation (Nu51, Des, G-Mac) with Jazeek, Luciano, reezy and THIZZY52 opened at No.1 on Spotify's Germany weekly chart with 2,624,861 streams, and is new at No.3 on the official German singles chart. The beat is by Gorex, who runs Amaterasu Tonstudio in Gelsenkirchen and also mixed and mastered the track. His studio credits run from Kay One and Bausa to Kollegah and Kasimir1441.\n\n🎧 Track: BLACK – Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy, THIZZY52\n\nWhich producer should we put behind the beat next? Drop a name.\n\nData: Spotify Weekly Germany (via kworb), week to 19 Nov 2026 · Offizielle Deutsche Charts, Top 100 Singles, 20–26 Nov 2026\n\n#RADAR808 #BehindTheBeat #Deutschrap #GermanRap #Producer #Gorex #BantuNation",
@@ -89,7 +90,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b07e7c7d96a331f4a7041d6"
   },
   {
    "id": "de-beat-gorex-tt",
@@ -98,7 +100,7 @@
    "network": "tiktok",
    "time": "18:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "BEHIND THE BEAT 🇩🇪 — Gorex\n\nSeven rappers, one beat. BLACK by Bantu Nation (Nu51, Des, G-Mac) with Jazeek, Luciano, reezy and THIZZY52 opened at No.1 on Spotify's Germany weekly chart with 2,624,861 streams, and is new at No.3 on the official German singles chart. The beat is by Gorex, who runs Amaterasu Tonstudio in Gelsenkirchen and also mixed and mastered the track. His studio credits run from Kay One and Bausa to Kollegah and Kasimir1441.\n\n🎧 Track: BLACK – Bantu Nation, Nu51, G-Mac, Des, Jazeek, Luciano, reezy, THIZZY52\n\nWhich producer should we put behind the beat next? Drop a name.\n\nData: Spotify Weekly Germany (via kworb), week to 19 Nov 2026 · Offizielle Deutsche Charts, Top 100 Singles, 20–26 Nov 2026\n\n#RADAR808 #BehindTheBeat #Deutschrap #GermanRap #Producer #Gorex #BantuNation",
@@ -149,7 +151,8 @@
       "title": "Behind the Beat: Gorex, the producer behind Germany's new Spotify No.1"
      }
     }
-   }
+   },
+   "buffer_id": "6b07e7c7aca86124808ec033"
   },
   {
    "id": "de-beat-gorex-story-newpost",
@@ -158,7 +161,7 @@
    "network": "instagram",
    "time": "18:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -177,7 +180,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b07e7c863939e1d00834e48"
   },
   {
    "id": "be-radar-issah-ig",
@@ -186,7 +190,7 @@
    "network": "instagram",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "THE RADAR 🇧🇪 — Issah\n\nAntwerp rapper-producer Issah went viral in September with Baddies In Belgica, a beat he produced himself: 35,000+ TikTok videos by 1 October, per Top40. The single peaked at No.3 on Spotify's Netherlands weekly chart and is still No.19 after 8 weeks. The Frenna remix, Baddies In Hollanda, is up to No.23, and Baddies In Almanya dropped on 18 November. Belgium, the Netherlands, now Germany.\n\n🎧 Track: BADDIES IN BELGICA – Issah\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Weekly Netherlands (via kworb), week to 19 Nov 2026\n\n#RADAR808 #TheRadar #BelgianRap #Antwerpen #DutchRap #Issah #BaddiesInBelgica",
@@ -238,7 +242,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b07e7e1aca86124808ece1f"
   },
   {
    "id": "be-radar-issah-tt",
@@ -247,7 +252,7 @@
    "network": "tiktok",
    "time": "21:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "THE RADAR 🇧🇪 — Issah\n\nAntwerp rapper-producer Issah went viral in September with Baddies In Belgica, a beat he produced himself: 35,000+ TikTok videos by 1 October, per Top40. The single peaked at No.3 on Spotify's Netherlands weekly chart and is still No.19 after 8 weeks. The Frenna remix, Baddies In Hollanda, is up to No.23, and Baddies In Almanya dropped on 18 November. Belgium, the Netherlands, now Germany.\n\n🎧 Track: BADDIES IN BELGICA – Issah\n\nWho's next? Drop a name in the comments.\n\nData: Spotify Weekly Netherlands (via kworb), week to 19 Nov 2026\n\n#RADAR808 #TheRadar #BelgianRap #Antwerpen #DutchRap #Issah #BaddiesInBelgica",
@@ -298,7 +303,8 @@
       "title": "The Radar: Issah, the Antwerp rapper-producer behind Baddies In Belgica"
      }
     }
-   }
+   },
+   "buffer_id": "6b07e7e217fc84b971b47843"
   },
   {
    "id": "be-radar-issah-story-newpost",
@@ -307,7 +313,7 @@
    "network": "instagram",
    "time": "21:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -326,7 +332,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b07e7e27cb39d7aa35eb463"
   }
  ]
 }
