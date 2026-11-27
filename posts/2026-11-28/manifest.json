@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "status": "pending",
+ "status": "scheduled",
  "items": [
   {
    "id": "eu-euro10-wk47-ig",
@@ -9,7 +9,7 @@
    "network": "instagram",
    "time": "13:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "text": "EURO 10 🇪🇺 — Week of 13–19 Nov\n\nNew method this week: we added up the official singles charts of Italy, France, Germany and the UK, rap only, 101 points minus chart position. Three national #1s stop at 100 points: SDM & Ninho in France, Kid Yugi in Italy, Ski Aggu & Ericson in Germany. Season 25's \"SHOTTA'S.\" is the only rap song in two of the four charts (#16 Germany, #17 UK) and takes #1 with 169. Last week we asked: Vacra or Tiakola? Answer: neither.\n\n🎧 Track: SHOTTA'S. – Season 25\n\nNext week's #1: Season 25 or SDM? Comment 1 or 2.\n\nData: FIMI wk 47, SNEP wk 47, Offizielle Deutsche Charts, Official Singles Chart UK · tracking week 13–19 Nov 2026\n\n#RADAR808 #Euro10 #EuropeanRap #UKRap #RapFrançais #Deutschrap #RapItaliano #Season25",
@@ -61,7 +61,8 @@
       "shouldShareToFeed": true
      }
     }
-   }
+   },
+   "buffer_id": "6b09fc2d277f27038a4027d7"
   },
   {
    "id": "eu-euro10-wk47-tt",
@@ -70,7 +71,7 @@
    "network": "tiktok",
    "time": "13:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc426ece6dfde5ff04a06",
     "text": "EURO 10 🇪🇺 — Week of 13–19 Nov\n\nNew method this week: we added up the official singles charts of Italy, France, Germany and the UK, rap only, 101 points minus chart position. Three national #1s stop at 100 points: SDM & Ninho in France, Kid Yugi in Italy, Ski Aggu & Ericson in Germany. Season 25's \"SHOTTA'S.\" is the only rap song in two of the four charts (#16 Germany, #17 UK) and takes #1 with 169. Last week we asked: Vacra or Tiakola? Answer: neither.\n\n🎧 Track: SHOTTA'S. – Season 25\n\nNext week's #1: Season 25 or SDM? Comment 1 or 2.\n\nData: FIMI wk 47, SNEP wk 47, Offizielle Deutsche Charts, Official Singles Chart UK · tracking week 13–19 Nov 2026\n\n#RADAR808 #Euro10 #EuropeanRap #UKRap #RapFrançais #Deutschrap #RapItaliano #Season25",
@@ -121,7 +122,8 @@
       "title": "Euro 10: one rap song in two charts beats three national #1s"
      }
     }
-   }
+   },
+   "buffer_id": "6b09fc2ec02ca0988aba7b79"
   },
   {
    "id": "eu-euro10-wk47-story-newpost",
@@ -130,7 +132,7 @@
    "network": "instagram",
    "time": "13:10",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -149,7 +151,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b09fc2fc02ca0988aba7bbf"
   },
   {
    "id": "eu-euro10-wk47-story-vote",
@@ -158,7 +161,7 @@
    "network": "instagram",
    "time": "15:00",
    "flagged": false,
-   "status": "pending",
+   "status": "scheduled",
    "buffer": {
     "channelId": "6afbc706ece6dfde5ff0811b",
     "assets": [
@@ -177,7 +180,8 @@
       "shouldShareToFeed": false
      }
     }
-   }
+   },
+   "buffer_id": "6b09fc2f585cafb820e4e11c"
   }
  ]
 }
